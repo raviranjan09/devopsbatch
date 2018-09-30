@@ -1,2 +1,5 @@
 Welcome
+<<<<<<< HEAD
 version 2
+=======
+>>>>>>> 1e84df7f843aaa8330726fcf45cfc6d15121e3be
